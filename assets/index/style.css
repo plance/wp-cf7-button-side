@@ -44,12 +44,20 @@
 	border-radius: 0 0 0 10px;
 }
 
+.cf7-btn-side-button-wrap--right-middle {
+	border-radius: 10px 0 0 10px;
+}
+
 .cf7-btn-side-button-wrap--right-bottom {
 	border-radius: 10px 0 0 0;
 }
 
 .cf7-btn-side-button-wrap--left-top {
 	border-radius: 0 0 10px 0;
+}
+
+.cf7-btn-side-button-wrap--left-middle {
+	border-radius: 0 10px 10px 0;
 }
 
 .cf7-btn-side-button-wrap--left-bottom {
