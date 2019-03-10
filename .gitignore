@@ -1,0 +1,5 @@
+/vendor
+/lance-core
+/composer.lock
+/.netbeans.xml
+/_data/node_modules/
